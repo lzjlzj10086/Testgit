@@ -1,7 +1,7 @@
 package Testgit;
 
-public class TestGit {
+public class firstgit {
     public static void main(String[] args) {
-        System.out.print("testgit");
+        System.out.print("firstgitup");
     }
 }
